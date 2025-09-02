@@ -54,7 +54,9 @@ dl::after {
 
 dt {
   float: left;
+  margin-right: 1rem;
   min-width: 4rem;
+  text-align: right;
 }
 
 h1 {
