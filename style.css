@@ -51,6 +51,7 @@ dl::after {
 
 dt {
   float: left;
+  font-weight: bold;
   margin-right: 1rem;
   min-width: 4rem;
   text-align: right;
