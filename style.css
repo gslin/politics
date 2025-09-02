@@ -57,6 +57,11 @@ dt {
   text-align: right;
 }
 
+footer {
+  font-size: 1rem;
+  text-align: right;
+}
+
 h1 {
   font-size: 3rem;
 }
