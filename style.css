@@ -34,11 +34,9 @@ table {
   max-width: 1024px;
 }
 
-a {
-  color: blue;
-}
-
 body {
+  background: #eee;
+  color: #111;
   font-family: sans;
   font-size: 1.2rem;
   line-height: 1.8rem;
