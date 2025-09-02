@@ -29,6 +29,53 @@ table {
 }
 
 /* ours */
-article {
+.container {
+  margin: 1rem auto 0 auto;
+  max-width: 1024px;
+}
+
+a {
+  color: blue;
+}
+
+body {
+  font-family: sans;
   font-size: 1.2rem;
+  line-height: 1.8rem;
+}
+
+dd {
+}
+
+dl::after {
+  clear: both;
+  content: '';
+}
+
+dt {
+  float: left;
+  min-width: 4rem;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: serif;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+p {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
 }
